@@ -1,0 +1,6 @@
+version: "2"
+services:
+  blockdiag:
+    build: .
+    image: hisaharu/blockdiag
+
